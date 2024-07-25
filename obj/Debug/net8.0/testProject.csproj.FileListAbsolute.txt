@@ -1,0 +1,14 @@
+C:\Users\Drifty\Desktop\C#\new\testProject\bin\Debug\net8.0\testProject.exe
+C:\Users\Drifty\Desktop\C#\new\testProject\bin\Debug\net8.0\testProject.deps.json
+C:\Users\Drifty\Desktop\C#\new\testProject\bin\Debug\net8.0\testProject.runtimeconfig.json
+C:\Users\Drifty\Desktop\C#\new\testProject\bin\Debug\net8.0\testProject.dll
+C:\Users\Drifty\Desktop\C#\new\testProject\bin\Debug\net8.0\testProject.pdb
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\testProject.AssemblyInfoInputs.cache
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\testProject.AssemblyInfo.cs
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\testProject.dll
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\refint\testProject.dll
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\testProject.pdb
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\testProject.genruntimeconfig.cache
+C:\Users\Drifty\Desktop\C#\new\testProject\obj\Debug\net8.0\ref\testProject.dll
